@@ -43,7 +43,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/manish-verma-b8a036219/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30px"></a>
   <a href="https://portfolio-vert-ten-26.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio" height="30px"></a>
-   <a href="https://x.com/MANiiSSHHHHHHHH?t=jGzHPOipQJZlrVctY2aUVQ&s=09"><img src="https://img.shields.io/twitter/follow/:_souvikhazra" alt="Twitter" height="30px"></a>t
+   <a href="https://x.com/MANiiSSHHHHHHHH?t=jGzHPOipQJZlrVctY2aUVQ&s=09"><img src="https://img.shields.io/twitter/follow/:Manish" alt="Twitter" height="30px"></a>t
  <a href="mailto:manishv7053@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email" height="30px"></a>
 </p>
   <p>🚀 Let's build something amazing together! Check out my portfolio at <a href="https://portfolio-vert-ten-26.vercel.app">Portfolio</a></p>
